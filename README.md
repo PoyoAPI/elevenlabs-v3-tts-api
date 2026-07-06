@@ -9,7 +9,7 @@ Focused server-side examples for building expressive text-to-speech workflows wi
 
 ElevenLabs v3 TTS is useful for creator tools, product narration, voiceovers, dialogue drafts, and apps that need generated speech as part of a larger media workflow.
 
-[Model Page](https://poyo.ai/models/elevenlabs-v3-tts) | [Docs](https://docs.poyo.ai/api-manual/music-series/elevenlabs-v3-tts) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/elevenlabs-v3-tts) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/music-series/elevenlabs-v3-tts) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
